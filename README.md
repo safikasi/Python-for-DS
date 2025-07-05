@@ -87,5 +87,5 @@ Have a creative idea? Found a bug? Feel free to open an issue or submit a pull r
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/safikasi/Python-for-Data-Science.git
-   cd Python-for-Data-Science
+   git clone https://github.com/safikasi/Python-for-DS.git
+   cd Python-for-DS

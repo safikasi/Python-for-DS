@@ -6,11 +6,16 @@ Welcome to the **Python for Data Science — Library Playground!** This reposito
 
 ## 🧰 Libraries Covered
 
-📐 NumPy — Numerical operations on multi-dimensional arrays 
+📐 NumPy — Numerical operations on multi-dimensional arrays
+
 📊 Pandas — Powerful tools for data analysis and manipulation 
+
 🎨 Matplotlib — Flexible plotting library for static visualizations 
+
 🌈 Seaborn — Statistical data visualization built on Matplotlib 
+
 ⚡ Plotly — Interactive, web-based visualizations 
+
 🔗 Cufflinks — Pandas + Plotly integration made easy
 
 ---
